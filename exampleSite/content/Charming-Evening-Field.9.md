@@ -10,6 +10,5 @@ tags:
 - food
 - indianfood
 - chicken
-draft: true
 
 ---
