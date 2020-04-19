@@ -12,7 +12,9 @@ tags:
 - bengalifood
 
 ---
-Growing up maach(fish) and bhaat (rice) has been a staple in my diet as it is for most bengalis. Bengal has been known for its paddy cultivation as well as the rivers of bengals have been the source of various fresh water fishes. Hence, rice and fish has become a staple in our diet \[1\].
+Growing up maach(fish) and bhaat (rice) has been a staple in my diet as it is for most bengalis. 
+
+Bengal has been known for its paddy cultivation as well as the rivers of bengals have been the source of various fresh water fishes. Hence, rice and fish has become a staple in our diet \[1\].
 
 Sorshe maach or steamed fish in mustard sauce is one of the delicacies of Bengali cuisine. Traditionally it is made with Hilsa / Bhetki fish. But here I have used salmon fillet.
 
