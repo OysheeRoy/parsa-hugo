@@ -16,4 +16,3 @@ tags:
 
 > 
 
-![](../images/post-img.jpg)
