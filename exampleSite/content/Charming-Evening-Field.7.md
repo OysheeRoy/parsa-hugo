@@ -22,7 +22,7 @@ Although mustard is used in different forms in Indian cooking, the use of mustar
 
 Usually, the fillet of fish is covered in the mustard paste and steamed in a banana leaf or in a sealed container over hot water. But as me being lazy and trying to find my ways to make cooking easier, I have steamed my fish in the microwave.  The most tricky part of cooking this dish, is to make the mustard paste.
 
-Add salt, turmeric powder and green chillies with the mustard seeds to make the paste. These prevents the paste from becoming bitter. Mix the paste with the fish fillet add some mustard oil and water to the mix and put in the microwave for 10 minutes. Take the fish out and flip it. Add some water if required and cook for another 5 minutes or till the time its cooked. Is the sauce too strong for you?? Add a little bit of curd in the paste, it will be make the sauce mild and creamy.
+Add salt, turmeric powder and green chillies with the mustard seeds to make the paste. These prevent the paste from becoming bitter. Mix the paste with the fish fillet add some mustard oil and water to the mix and put in the microwave for 10 minutes. Take the fish out and flip it. Add some water if required and cook for another 5 minutes or till the time its cooked. Is the sauce too strong for you?? Add a little bit of curd in the paste, it will be make the sauce mild and creamy.
 
 References:
 
