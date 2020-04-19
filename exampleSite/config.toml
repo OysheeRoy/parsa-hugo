@@ -16,9 +16,9 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Themefisher"
+author = "The Bengali Scientist"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m a Computer Scientist by day and a cook by night."
 contact_form_action = ""
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
@@ -63,11 +63,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://twitter.com/cloudonfleek"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "https://www.linkedin.com/company/cloudonfleek/"
+URL = "https://www.linkedin.com/in/oysheesaharoy/"
 icon = "ti-linkedin"
-[[params.social]]
-URL = "https://github.com/CloudOnFleek"
-icon = "ti-github"
