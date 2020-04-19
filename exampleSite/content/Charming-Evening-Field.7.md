@@ -1,9 +1,9 @@
 ---
-title: First Ever Blog Post
+title: Sorshe Maach [Steamed fish in mustard sauce]
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: post
-image: "/images/createherstock-2019-Agency-Neosha-Gardner-10.jpg"
+image: "/images/sorsemaach.jpg"
 categories:
 - Infrastructure-as-Code
 tags:
