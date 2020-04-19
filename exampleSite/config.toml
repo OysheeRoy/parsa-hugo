@@ -1,9 +1,9 @@
-baseURL = "https://cloudonfleek.netlify.com"
+baseURL = "https://thebengaliscientist.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Cloud on Fleek | Cloud Security Blog "
+title = "TheBengaliScientist"
 [[menu.main]]
 URL = "about"
 name = "About"
