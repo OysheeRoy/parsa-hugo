@@ -2,7 +2,7 @@
 title: Sorshe Maach [Steamed fish in mustard sauce]
 date: 2020-04-19T08:46:10.000+00:00
 description: This is meta description
-type: featured
+type: post
 image: "/images/sorsemaach.jpg"
 categories:
 - food
