@@ -1,6 +1,6 @@
 ---
 title: Madhur Jaffrey's World-of-the-East vegetarian cooking
-date: 2020-04-24T12:46:10.000+00:00
+date: 2020-04-19T08:46:10-04:00
 description: This is meta description
 type: post
 image: "/images/eastvegcooking.jpg"
