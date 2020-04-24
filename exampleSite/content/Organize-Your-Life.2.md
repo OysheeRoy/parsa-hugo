@@ -22,4 +22,4 @@ One of my other favourite bharta is the plantain bharta. Although it takes a lit
 
 ![](/images/bharta.jpg)
 
-After moving to Canada, my kitchen didn't have a fire based cooktop and I had to improvise to make my childhood favourite dish. Now my eggplants are broiled in the oven  every saturday.  
+After moving to Canada, my kitchen didn't have a fire based cooktop and I had to improvise to make my childhood favourite dish. Now my eggplants are broiled in the oven  every Saturday.  
