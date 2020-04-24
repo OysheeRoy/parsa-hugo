@@ -5,7 +5,7 @@ description: ''
 type: post
 image: "/images/baigan.jpg"
 categories:
-- "[Food]"
+- food
 tags:
 - bharta
 - vegetable
