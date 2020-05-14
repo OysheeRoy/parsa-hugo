@@ -9,7 +9,6 @@ categories:
 tags:
 - food
 - shopping
-draft: true
 
 ---
 Going to the grocery store, smelling the fresh produce, walking down the different aisles is my retail therapy. I always found my trips to the grocery store therapeutic and calming.
