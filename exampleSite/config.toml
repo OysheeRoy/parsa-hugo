@@ -65,3 +65,6 @@ link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://www.linkedin.com/in/oysheesaharoy/"
 icon = "ti-linkedin"
+[[params.social]]
+URL = "https://www.instagram.com/thebengaliscientists/"
+icon = "ti-instagram"
