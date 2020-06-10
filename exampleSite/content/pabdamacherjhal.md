@@ -1,5 +1,5 @@
 ---
-title: Pabda maacher jhal
+title: Pabda Maacher Jhal
 date: 2019-06-11T04:46:10-04:00
 description: This is meta description
 type: post
