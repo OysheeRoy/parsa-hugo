@@ -1,54 +1,21 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T08:46:10.000+00:00
+title: Pabda maacher jhal
+date: 2019-06-11T04:46:10-04:00
 description: This is meta description
-type: featured
-image: images/featured-post/post-5.jpg
+type: post
+image: "/images/b0dff780-cd31-4bf4-b013-26b2e003c96d.jpg"
 categories:
-- Nature
+- food
 tags:
-- Fashion
-- Nature
-draft: true
+- fish
+- bengalifood
+- simplecooking
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Maacher Jhal is one of the easiest and flavourful Bengali fish recipes. For this curry, I have used Pabda fish or butter catfish. It is a flavourful freshwater fish. Although I prefer cooking fish curry in mustard oil, you can use white oil too. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Coat the cleaned fishes with turmeric and salt and keep them in a strainer. This method keeps the fish dry and prevents them from spluttering in oil.
 
+Heat oil in a frying pan and shallow fry the fishes. Keep the pot covered while frying the fishes as they might splutter. Once the fishes are shallowly cooked, reduce the oil in the pan to only 1 tablespoon.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Add Kalo jeera/ nigella seeds to the oil. Add a little red chili powder to the oil and fry it for 30-35 seconds. This helps in adding the color to the dish. Next, make a paste of turmeric powder and half a teaspoon of cumin powder with water and add it to the oil. Cook off the spice till the oil separates. Next, add enough water to the pan to make the curry. Add salt to taste. Put a few whole green chilies to the curry. Once the curry starts to boil, add the fried fish and simmer it for another 5-8 mins. Since this a very delicate fish, it only takes very little time to cook. You can adjust the timings if you are using a different fish. Add chopped coriander leaves at the end and rest it for sometime before serving it with hot rice.
