@@ -5,7 +5,7 @@ description: This is meta description
 type: post
 image: "/images/whatsapp-image-2020-06-24-at-8-03-44-pm.jpeg"
 categories:
-- food
+- FOOD
 tags:
 - 'mutton '
 - meat
