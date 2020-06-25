@@ -3,7 +3,7 @@ title: The Chicken Curry
 date: 2020-04-19T08:46:10.000+00:00
 description: This is meta description
 type: post
-image: "/images/chickencurry.jpg"
+image: "/images/whatsapp-image-2020-06-24-at-8-11-19-pm.jpeg"
 categories:
 - Food
 tags:
