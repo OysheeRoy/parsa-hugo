@@ -4,11 +4,11 @@ date: 2020-06-24T04:46:10-04:00
 description: This is meta description
 type: post
 image: "/images/whatsapp-image-2020-06-24-at-8-03-44-pm.jpeg"
-categories:
-- Valuable Idea
+categories: []
 tags:
-- Photos
-- Finance
+- 'mutton '
+- meat
+- indian
 
 ---
 Mutton, be it lamb or goat, has an overpowering smell and has to be simmered on low heat to get the meat fall from the bone. One of my fondest memories of Sunday mutton curry has to be the one where I used to go to the kitchen to get a piece of kosha mangsho and a little jhol. 
